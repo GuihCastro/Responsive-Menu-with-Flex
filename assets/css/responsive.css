@@ -1,0 +1,30 @@
+@media(max-width: 768px) {
+    .header {
+        flex-direction: column;
+        gap: 80px;
+    }
+
+    .logo .title {
+        font-size: 40px;
+    }
+
+    .header .menu {
+        flex-direction: column;
+        gap: 50px;
+        margin-bottom: 66px;
+    }
+
+    .menu .options {
+        flex-direction: column;
+    }
+
+    .options li {
+        font-size: 40px;
+        padding: 17px 41px;
+    }
+
+    .register {
+        font-size: 40px;
+        padding: 15px 23px;
+    }
+}

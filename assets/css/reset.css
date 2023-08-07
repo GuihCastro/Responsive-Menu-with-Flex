@@ -1,0 +1,25 @@
+*, 
+*:after,
+*:before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+body {
+    font-size: 100%;
+}
+
+h1 {
+    font-weight: 800;
+}
+
+ul li {
+    font-weight: 400;
+}
+
+button {
+    font-weight: 300;
+}

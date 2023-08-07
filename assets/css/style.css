@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;800&display=swap');
+
+body {
+    font-family: 'Public Sans', sans-serif;
+    height: 100vh;
+    width: 100vw;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 45px;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+.header .logo {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.logo .title {
+    font-size: 20px;
+}
+
+.header .menu {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.menu .options {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.options li {
+    font-size: 15px;
+    padding: 11px 6px;
+}
+
+.options li:hover {
+    cursor: pointer;
+    background: #5BC241;
+    color: #fff;
+}
+
+.menu .register {
+    background: url(../img/button.svg);
+    font-size: 15px;
+    color: #fff;
+    border: none;
+    width: 127px;
+    height: 39px;
+    padding: 10px 21px;
+}
+
+.register:hover {
+    cursor: pointer;
+}
