@@ -14,6 +14,8 @@ A proposta era criar um menu de banco (thebank) que fosse responsivo, utilizando
 
 - mobile
 
+[Clique aqui](https://guihcastro.github.io/Responsive-Menu-with-Flex/) para acessar o projeto final no ar.
+
 A proposta era apenas o desenvolvimento do estilo, portanto a funcionalidade da plataforma não está implementada (mas os botões já exibem seu comportamento de forma correta).
 
 ## Tecnologias utilizadas
